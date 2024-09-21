@@ -1,2 +1,6 @@
 torch == 2.1.0+cu121
-tqdm >= 4.66.5
+tqdm >= 4.65.0
+fastapi >= 0.109.2
+zhipuai >= 2.1.5.20230904
+uvicorn>=0.22.0
+pydantic>=2.7.1
